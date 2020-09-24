@@ -1,3 +1,2 @@
 "Pozdrav iz prvog fajla"
-"...sa druge grane"
 “... sa svih grana!”
